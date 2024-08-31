@@ -1,1 +1,4 @@
-new/
+wp-content/cache
+wp-content/uploads
+wp-content/gallery
+wp-content/wpvividbackups
